@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">People are satisfied that they can justify why they don't need to follow the rules.</statement>
+  <statement id="2">There is little chance of being called out for not following the rules.</statement>
+  <statement id="3">It is just too troublesome to follow the rules.</statement>
+  <statement id="4">Cyber security gets in the way of doing their jobs.</statement>
+  <statement id="5">There are few consequences for not following the rules.</statement>
+  <statement id="6">An unpleasant workplace environment.</statement>
+  <statement id="7">Behaviour is influenced by national culture.</statement>
+  <statement id="8">People feel generally anxious, stressed, or fearful.</statement>
+  <statement id="9">People are copying the behaviour of their colleagues.</statement>
+  <statement id="10">People are overloaded with work.</statement>
+  <statement id="11">People are not allowed to feed into the creation of cyber security rules.</statement>
+  <statement id="12">People lack physical resources (e.g. technology, money) to follow the rules.</statement>
+  <statement id="13">People lack knowledge and awareness of cyber security.</statement>
+  <statement id="14">Dishonest people don't follow rules.</statement>
+  <statement id="15">People find convenient alternatives to cyber security requirements.</statement>
+  <statement id="16">It's too difficult, or impossible, to follow the rules.</statement>
+  <statement id="17">The rules do not align with personal values.</statement>
+  <statement id="18">Following the rules violates personal privacy.</statement>
+  <statement id="19">People prefer to do what they are used to doing.</statement>
+  <statement id="20">People feel frustrated with cyber security requirements.</statement>
+  <statement id="21">People believe there are benefits in NOT following the rules.</statement>
+  <statement id="22">People consider themselves too smart and therefore above the rules.</statement>
+  <statement id="23">People are not interested in cyber security.</statement>
+  <statement id="24">People are not committed to cyber security, and only follow rules because of external rewards.</statement>
+  <statement id="25">People don't agree with the rationale behind the rules.</statement>
+  <statement id="26">People comply up to a point, and then they're done.</statement>
+</statements>
